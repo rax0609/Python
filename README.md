@@ -22,6 +22,3 @@ git clone https://github.com/rax0609/Python.git
 ## 授權方式
 
 此專案根據 MIT 授權條款進行授權，詳情請參閱 [LICENSE](LICENSE) 文件。
-```
-
-這個 `README.md` 文件應該能夠滿足大多數專案的需求。如果你有特定需求或功能，可以根據實際情況進行修改和擴展。希望這能幫助到你！
